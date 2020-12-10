@@ -3,11 +3,11 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap');
 body {
-  background-color: tan;
+  background-color: black;
 }
 
 h1, h2, h3, p {
-  color: black;
+  color: green;
   text-align: left;
   font-family: 'Cormorant', serif;
 }
@@ -37,7 +37,7 @@ p {
   margin-right: auto;
 }
 hr.solid {
-  border-top: 3px solid #bbb;
+  border-top: 7px solid #bbb;
 }
 </style>
 </head>
