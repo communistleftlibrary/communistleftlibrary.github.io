@@ -1,0 +1,41 @@
+<html>
+<head>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap');
+body {
+  background-color: white;
+}
+
+h1, h2, h3, p {
+  color: black;
+  text-align: center;
+  font-family: 'Cormorant', serif;
+}
+
+a {
+  text-align:center;display:block;
+}
+  
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p {
+  font-size: 18px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+</head>
+</html>
